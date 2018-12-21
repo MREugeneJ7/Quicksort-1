@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "MReugeneJ7"
     token:
-      secure: "dce96334fe66440e7307fa0ffe40126c55316338"
+      secure: ""
 jdk:
   - oraclejdk8
 script:
@@ -23,3 +23,4 @@ notifications:
     - dcastell@ull.es
 on_success: always
 on_failure: always
+dce96334fe66440e7307fa0ffe40126c55316338
