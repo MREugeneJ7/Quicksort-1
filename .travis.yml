@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "MReugeneJ7"
     token:
-      secure:""
+      secure: ""
 jdk:
   - oraclejdk8
 script:
