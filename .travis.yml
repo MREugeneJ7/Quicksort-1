@@ -4,7 +4,7 @@ dist: trusty
 install: true
 addons:
   sonarcloud:
-    organization: "MReugeneJ7"
+    organization: "MREugeneJ7"
     token:
       secure: ""
 jdk:
